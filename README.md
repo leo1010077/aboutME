@@ -6,7 +6,7 @@
 ## 🛠️ Tech Stack  
 - **Programming Languages**: Python  
 - **Frameworks**: PyTorch  
-- **Specialties**: LLM, VLM, LangChain, LlamaIndex, Jetson
+- **Specialties**: LLM, VLM, LangChain, LlamaIndex, Jetson, Docker, Kubernetes
 - **Tools & Platforms**: Hugging Face, Ollama, ChromaDB, FAISS  
 
 ## 🌟 About Me  
@@ -15,5 +15,5 @@
 - 📚 Currently exploring Flutter and GO for cross-platform development.  
 
 ## 📫 Connect ME!
-- 💼 [LinkedIn](https://www.linkedin.com/in/LeoXIAO777/)  
+- 💼 LinkedIN: [LinkedIn](https://www.linkedin.com/in/LeoXIAO777/)  
 - 📧 Email: leoxiao1010077@gmail.com
